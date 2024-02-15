@@ -1,0 +1,10 @@
+airflow_hw/dags/*
+!airflow_hw/dags/hw_dag.py
+!airflow_hw/dags/__init__.py
+airflow_hw/modules/*
+!airflow_hw/modules/pipeline.py
+!airflow_hw/modules/predict.py
+!airflow_hw/modules/__init__.py
+airflow_hw/.DS_Store
+**/__pycache__/*
+__pycache__/*
